@@ -1,0 +1,2 @@
+Wynik z programu: 
+Funkcja liniowa 2.0x + 4.0:  (-0.5,) 
